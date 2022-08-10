@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "THIAGO",
+        "lastName": "FOLLY",
+        "adress": "Rua Souza Cardoso 311\nCasa",
+        "emailAdress": "thiagofolly@gmail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix"
+        ],
+        "selectCountries": "Índia",
+        "selectYears": "2018",
+        "selectMonths": "Maio",
+        "pwd": "Qwe12345"
+    },
+    {
+        "firstName": "BIANCA",
+        "lastName": "PORTELA",
+        "adress": "Rua Souza Cardoso 311\nCasa",
+        "emailAdress": "thiagofolly@gmail.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix"
+        ],
+        "selectCountries": "Índia",
+        "selectYears": "2018",
+        "selectMonths": "Maio",
+        "pwd": "Qwe12345"
+    }
+]
